@@ -1,8 +1,8 @@
 # StudentManagement Program
 
-인프런 워밍업 클럽 2기 백엔드 미니 프로젝트
+🍃인프런 워밍업 클럽 2기 백엔드 미니 프로젝트
 
-ERD 설계
+⚙️ERD 설계⚙️
 ![학생관리프로그램](https://github.com/user-attachments/assets/7bcbfd2e-bec2-4832-8ee6-4d8efb52a809)
 
 
