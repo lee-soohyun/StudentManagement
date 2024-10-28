@@ -1,10 +1,10 @@
 package com.studentm.studentM.program.dto
 
-class SubjectDTO(
-    val subjectId: Long,
+data class SubjectDTO(
     val subjectName: String,
     val subjectTeacher: String,
     val subjectCredit: Int,
     val subjectReview: Long
 ) {
+
 }

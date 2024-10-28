@@ -1,6 +1,10 @@
 package com.studentm.studentM.program.dto
 
-class ReviewDTO(
-    val reviewList: String
+data class ReviewDTO(
+    val reviewList: String,
+    val reviewRegister: String,
+    val reivewUpdate: String,
+    val reivewDelete: String
 ) {
+
 }
